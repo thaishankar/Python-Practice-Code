@@ -1,4 +1,4 @@
-''' pure storage buddy system bitmap
+''' buddy system bitmap
     Given a complete binary tree with nodes of values of either 1 or 0, the following rules always hold:
     (1) a node's value is 1 if and only if all its subtree nodes' values are 1
     (2) a leaf node can have value either 1 or 0
